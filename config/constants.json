@@ -1,0 +1,10 @@
+{
+    "blockCipherMainURL":"https://api.blockcypher.com/v1/eth/main",
+    "blockCipherTestURL":"https://api.blockcypher.com/v1/beth/test",
+    "addressLength":40,
+    "token":"4f5bfac5de9a46f8987c9a1718a8026f",
+    "addressSizeError":"Address Must be 40 characters long",
+    "acountCreated":"Account Created Successfully",
+    "success":"Success"
+
+}

@@ -1,0 +1,6 @@
+{
+  "hostAddress": "localhost",
+  "serverPort": 9102,
+  "mongoUrl": "mongodb://localhost:27017/BlockChainICO"
+
+}
